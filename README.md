@@ -1,5 +1,5 @@
 
-# My name is Liza, I am in love with machine learning.
+# My name is Liza, I am in love with machine learning
 
 <p align="left">
   <img width="128" src="pic.jpg">
