@@ -5,7 +5,7 @@
   <img width="128" src="pic.jpg">
 </p>
 
-[<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/lizv22)
+[<img src="https://img.shields.io/badge/Telegram-17191e?logo=Telegram&logoColor=000203&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://t.me/lizvladii)
 &nbsp;
 [<img src="https://img.shields.io/badge/Instagram-17191e?logo=Instagram&logoColor=E4405F&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />](https://www.instagram.com/lizvladi/)
 &nbsp;
